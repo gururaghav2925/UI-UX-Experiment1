@@ -17,7 +17,8 @@ To explore the Hands-on UI/UX Experiments.
 ```
 
 ## Output:
-[exp1 ui.pdf](https://github.com/user-attachments/files/21791254/exp1.ui.pdf)
+
+[lab.1.pdf](https://github.com/user-attachments/files/22460023/lab.1.pdf)
 
 
 ## Result:
